@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1577477855 source:d:\first year fci\codeforces\assigh3\main.cpp
+	<iostream>
+	"fcivector.h"
+	<vector>
+	"student.h"
+	"courses.h"
+
+1577477638 source:d:\first year fci\codeforces\assigh3\src\student.cpp
+	"student.h"
+	<iostream>
+	"fcivector.h"
+	"courses.h"
+
+1577471054 d:\first year fci\codeforces\assigh3\include\student.h
+	<iostream>
+	<string>
+	"fcivector.h"
+	"courses.h"
+
+1576968391 source:d:\first year fci\codeforces\assigh3\src\fcivector.cpp
+	"fcivector.h"
+
+1577479469 d:\first year fci\codeforces\assigh3\include\fcivector.h
+	<iostream>
+	<bits/stdc++.h>
+
+1577472180 source:d:\first year fci\codeforces\assigh3\src\courses.cpp
+	"courses.h"
+	<iostream>
+
+1577454996 d:\first year fci\codeforces\assigh3\include\courses.h
+	<string>
+
+1577479631 source:d:\alaa khaled foad ..20180049(270702_alaa khaled)\alaa khaled foad ..20180049\main.cpp
+	<iostream>
+	"fcivector.h"
+	<vector>
+	"student.h"
+	"courses.h"
+
+1577479469 d:\alaa khaled foad ..20180049(270702_alaa khaled)\alaa khaled foad ..20180049\include\fcivector.h
+	<iostream>
+	<bits/stdc++.h>
+
+1577471054 d:\alaa khaled foad ..20180049(270702_alaa khaled)\alaa khaled foad ..20180049\include\student.h
+	<iostream>
+	<string>
+	"fcivector.h"
+	"courses.h"
+
+1577454996 d:\alaa khaled foad ..20180049(270702_alaa khaled)\alaa khaled foad ..20180049\include\courses.h
+	<string>
+
+1577472180 source:d:\alaa khaled foad ..20180049(270702_alaa khaled)\alaa khaled foad ..20180049\src\courses.cpp
+	"courses.h"
+	<iostream>
+
+1576968391 source:d:\alaa khaled foad ..20180049(270702_alaa khaled)\alaa khaled foad ..20180049\src\fcivector.cpp
+	"fcivector.h"
+
+1577477638 source:d:\alaa khaled foad ..20180049(270702_alaa khaled)\alaa khaled foad ..20180049\src\student.cpp
+	"student.h"
+	<iostream>
+	"fcivector.h"
+	"courses.h"
+
